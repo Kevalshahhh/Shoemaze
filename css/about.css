@@ -1,0 +1,45 @@
+section.main3
+{
+	position: relative;
+	width:100%;
+	padding:1%;
+	height:700px;
+	color: black;
+    padding-bottom: 20px;
+}
+
+div.about
+{
+	width:88%;
+	padding:1%;
+	height:auto;
+	margin:auto auto;
+	text-align:justify;
+}
+    
+.about p
+{
+	padding:10px;
+	text-indent:50px;
+}
+
+.info
+{
+	font-size: 3rem;
+}
+
+ .main3 a
+{
+	text-decoration:none;
+	color:#d81d1d;
+}
+
+img.store
+{
+	width:100%;
+	position: center;
+	
+}
+
+    
+

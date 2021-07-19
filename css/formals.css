@@ -1,0 +1,106 @@
+section.shoe{
+    background-color: rgba(70, 227, 248, 0.719);
+    position: center;
+	width:100%;
+    height: auto;
+    color: black;
+    
+}
+
+.txt{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 4rem;
+    color: rgba(25, 25, 27, 0.596);
+    padding-left: 0%;
+}
+
+.shop-item {
+    margin: 40px;
+}
+
+.shop-item-price{
+    
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+    line-height: 10px;
+    letter-spacing: 2px;
+}
+
+.shop-item-image {
+    height: 300px;
+    padding-bottom: 20px;
+    width: 300px;
+}
+
+.shop-item-images {
+    padding-top: 40px;
+    height: 260px;
+    padding-bottom: 20px;
+    width: 300px;
+}
+  
+.shop-item-details {
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+}
+  
+.shop-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.btn {
+    
+    text-align: center;
+    padding: .87em .87em;
+}
+  
+.btn-primary {
+    color: white;
+    background-color: #000000;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+    margin: 10px;
+}
+  
+.btn-primary:hover {
+    background-color: #474444;
+}
+
+#footer {
+    position: relative;
+    bottom: 20px;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 300px;
+    letter-spacing: 2px;
+    line-height: 15px;
+    text-align: center;
+    background-color: black;
+  }
+
+  .hd{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'PT', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 2.2rem;
+    color: white;
+}
+
+.text-center{
+    padding-left: 30px;
+    padding-right: 30px;
+    letter-spacing: 2px;
+    font-family: 'PT', sans-serif;
+    line-height: 25px;
+    font-size: 1rem;
+    color: white;
+
+}

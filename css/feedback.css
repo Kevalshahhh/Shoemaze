@@ -1,0 +1,69 @@
+
+section.main
+{
+    position: center;
+    background-color: white;
+	width:100%;
+	height:750px;
+    float:right;
+    color: black;
+    padding-bottom: 5px;
+}
+
+.prov 
+{
+    font-size: 4rem;
+}
+    
+.contact
+{
+	margin: 0 auto;
+	text-align:left;
+	width:330px;
+	padding-left :38%;
+	font-size:12px;
+    background-color: white;
+ }
+    
+label
+{
+        padding-left: 5px;
+        font-size:18px;
+        color: black;
+}
+    
+.name, .e_mail
+{
+	margin:5px;
+	height:35px;
+	border-radius:5px;
+	font-size:18px;
+	width:340px;
+}	
+
+.message
+{ 
+    margin:5px;
+    border-radius: 5px;
+    font-size: 18px;
+	width:340px;
+	height:200px;
+}
+
+#submit
+{
+	padding:3px; 
+	border:1px solid black;
+	height:24px;
+    cursor:pointer;
+	background-color:transparent;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	font-size:12px;
+}
+    
+.main a
+{
+	text-decoration:none;
+	color:#434343;
+}
